@@ -4,7 +4,7 @@ A simple CyberSecurity Project for email spam detection using Jupyter, Python an
 # Email Spam Detection System
 
 ## Problem Statement
-Email spam, or junk mail, is a persistent issue that floods inboxes with unsolicited and often malicious content, including scams and phishing attempts. This project, undertaken as part of a data science internship at Oasis Infobyte, aims to develop an effective email spam detection system using Python and machine learning.
+Email spam, or junk mail, is a persistent issue that floods inboxes with unsolicited and often malicious content, including scams and phishing attempts. This project aims to develop an effective email spam detection system using Python and machine learning.
 
 ## Project Objectives
 
